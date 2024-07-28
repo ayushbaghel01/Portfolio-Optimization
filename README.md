@@ -36,23 +36,6 @@ Treynor Ratio = (Rp - Rf) / βp
 Where:
 - `βp` = Beta of the portfolio, a measure of its sensitivity to market movements.
 
-## How to Run
-1. **Clone the Repository**
-   ```sh
-   git clone https://github.com/ayushbaghel01/portfolio-optimization.git
-   cd portfolio-optimization
-   ```
-
-2. **Install Dependencies**
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Script**
-   ```sh
-   python portfolio_optimization.py
-   ```
-
 ## Dependencies
 - `numpy`
 - `pandas`
